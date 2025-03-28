@@ -17,7 +17,7 @@
 - `strategy()`: Controls model selection and response streaming
 - `Gradio UI`: User-friendly interface to input functions and view output
 
-## Sample## Sample
+## Sample
 ```python
 product = {
     "name": "Sunscreen",
@@ -29,4 +29,6 @@ product = {
 }
 
 ```
+## Outcome
 
+![Outcome_IMG](./product_decision.png)
